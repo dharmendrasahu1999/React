@@ -21,5 +21,7 @@ Transitive Dependencies
 
 BrowserList
 What are the different types of script
+Tree shaking??
+Ans:  Tree shaking is a technique used by modern JavaScript module bundlers, like Webpack and Rollup, to remove dead or unused code from a project. It's called "tree shaking" because the process is similar to shaking a tree to remove dead leaves or branches.
 
 
